@@ -1,0 +1,52 @@
+footer {
+  color: antiquewhite;
+}
+body {
+  color: lavenderblush;
+  font-weight: bold;
+  background: url("https://cdna.artstation.com/p/assets/images/images/012/476/178/large/rafael-de-jongh-80s-bg.jpg?1534978988g");
+  height:100%;
+  width: 100%;
+}
+.love{
+  color: antiquewhite;
+  text-transform: uppercase;
+}
+.stoneoak {
+  max-width: 100%;
+  max-height: 100%;
+}
+h6{
+  color: aquamarine;
+  font-size: 20px;
+  font-weight: bold;
+}
+.syntax li{
+color:whitesmoke;
+}
+.examples{
+  font-weight: bold;
+  color: orange;
+}
+ h1{ background-image: radial-gradient(
+    20% 60px at 30% 20px,
+    #1c99ff,
+    #7006be 120%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 7vh;
+  }
+img{
+  max-height: 100%;
+  max-width: 100%;
+}
+  a {
+    color:lime;
+  }
+  .em {
+    color: tomato;
+  }
+  
+  
